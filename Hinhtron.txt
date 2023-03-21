@@ -1,0 +1,3 @@
+MH65       Hinh tron 65    3                18.8       28.3 
+MH44       Hinh tron 44    2                12.6       12.6 
+MH58       Hinh tron 58    4                25.1       50.2 
